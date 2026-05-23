@@ -1,68 +1,150 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Oracle+Council+Fleet;AI+Homelab+Builder;Photography+%C3%97+Technology" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Building an AI-powered multi-agent fleet on a self-hosted homelab</strong>
-</p>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ███████╗██╗   ██╗     ██╗██╗████████╗                         ║
+║   ██╔════╝██║   ██║     ██║██║╚══██╔══╝                         ║
+║   ███████╗██║   ██║     ██║██║   ██║                            ║
+║   ╚════██║██║   ██║██   ██║██║   ██║                            ║
+║   ███████║╚██████╔╝╚█████╔╝██║   ██║                            ║
+║   ╚══════╝ ╚═════╝  ╚════╝ ╚═╝   ╚═╝                            ║
+║                                                                  ║
+║   [ ORACLE COUNCIL FLEET COMMANDER ]                             ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%24+whoami+%E2%86%92+oracle-fleet-commander;%24+uptime+%E2%86%92+24%2F7+homelab+operator;%24+cat+mission.txt+%E2%86%92+build+%7C+automate+%7C+learn;%24+agents+--count+%E2%86%92+9+autonomous+AI+nodes" alt="Typing SVG" />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=MEYD-605&color=00ff41&style=flat-square&label=PROFILE+VIEWS)](https://github.com/MEYD-605)
+[![GitHub followers](https://img.shields.io/github/followers/MEYD-605?style=flat-square&color=00ff41&label=FOLLOWERS)](https://github.com/MEYD-605)
+
+</div>
 
 ---
 
-### About
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEYD-605&layout=donut-vertical&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&count_private=true" />
 
-I build and operate the **Oracle Council** — a fleet of AI agents running on a self-hosted Proxmox homelab. Each agent has a specialized role, communicates through structured protocols, and learns from shared knowledge.
+### `> cat /etc/about.conf`
 
-Inspired by [P'Nat's Oracle framework](https://oracle101.vercel.app/) and the philosophy that AI should be collaborative, transparent, and continuously learning.
+```yaml
+name: Sujit Manitayakul
+alias: Bo
+location: Thailand
+role: Fleet Commander & AI Homelab Builder
 
-### Tech Stack
+mission: |
+  Building the Oracle Council — a fleet of
+  9 autonomous AI agents on self-hosted
+  Proxmox infrastructure. Each agent thinks,
+  communicates, and learns independently.
+
+mentor: P'Nat (Neo Oracle)
+framework: oracle-101
+philosophy: "AI should collaborate, not just execute"
+```
+
+### `> systemctl status tech-stack`
 
 <p>
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
 </p>
-
-### Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| **[plugin-marketplace](https://github.com/MEYD-605/plugin-marketplace)** | MAW plugin marketplace — shared automation for multi-agent workflows |
-| **[arra-safety-hooks](https://github.com/MEYD-605/arra-safety-hooks)** | Pre-commit safety hooks for AI agent fleets |
-| **[oracle-skills-cli](https://github.com/MEYD-605/oracle-skills-cli)** | CLI tools for Oracle skill management |
-| **[portable-maw-challenge](https://github.com/MEYD-605/portable-maw-challenge)** | Portable multi-agent workflow challenge |
-
-### The Fleet
-
-```
-Oracle Council — AI Multi-Agent Fleet
-├── No.0  Paladin     │ Strategic Command    (Opus 4.7)
-├── No.1  Lord Knight │ Orchestration        (Opus 4.6)
-├── No.2  High Wizard │ Architecture         (Sonnet 4.6)
-├── No.3  Developer   │ Coding               (Sonnet 4.6)
-├── No.4  MIMO        │ Deployment           (Sonnet 4.6)
-├── No.5  Cartographer│ Knowledge Mapping    (Sonnet 4.6)
-├── No.88 Sombo       │ Secretary            (Sonnet 4.6)
-├── No.99 Joker       │ Wildcard + Backup    (Sonnet 4.6)
-└── No.100 Lucid      │ Ambient Learner      (Sonnet 4.6)
-```
-
-### Businesses
-
-- **Club S** — Photography services with AI-powered delivery
-- **ConPass** — Color-blind contact lens solutions
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MEYD-605&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MEYD-605&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+### `> maw ls --fleet`
 
-<p align="center">
-  <sub>Powered by Oracle Council Fleet — AI agents that learn, collaborate, and build together</sub>
-</p>
+```
+┌─────────────────────────────────────────────────────────────┐
+│              ORACLE COUNCIL — FLEET STATUS                  │
+├──────┬───────────────┬──────────────────┬───────────────────┤
+│  ID  │    CODENAME   │      ROLE        │      ENGINE       │
+├──────┼───────────────┼──────────────────┼───────────────────┤
+│  00  │  Paladin      │  Strategic CMD   │  Claude Opus 4.7  │
+│  01  │  Lord Knight  │  Orchestrator    │  Claude Opus 4.6  │
+│  02  │  High Wizard  │  Architect       │  Claude Sonnet    │
+│  03  │  Developer    │  Coding Agent    │  Claude Sonnet    │
+│  04  │  MIMO         │  Deployment      │  Claude Sonnet    │
+│  05  │  Cartographer │  Knowledge Map   │  Claude Sonnet    │
+│  88  │  Sombo        │  Secretary       │  Claude Sonnet    │
+│  99  │  Joker        │  Wildcard        │  Claude Sonnet    │
+│ 100  │  Lucid        │  Ambient Learn   │  Claude Sonnet    │
+├──────┴───────────────┴──────────────────┴───────────────────┤
+│  STATUS: ALL SYSTEMS OPERATIONAL          UPTIME: 24/7      │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### `> ls -la projects/`
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [**plugin-marketplace**](https://github.com/MEYD-605/plugin-marketplace) | MAW plugin ecosystem — shared automation | `ACTIVE` |
+| [**arra-safety-hooks**](https://github.com/MEYD-605/arra-safety-hooks) | Pre-commit safety hooks for AI fleets | `ACTIVE` |
+| [**oracle-skills-cli**](https://github.com/MEYD-605/oracle-skills-cli) | CLI tools for Oracle skill management | `ACTIVE` |
+| [**portable-maw-challenge**](https://github.com/MEYD-605/portable-maw-challenge) | Portable multi-agent workflow challenge | `ACTIVE` |
+
+### `> cat business.yml`
+
+```yaml
+ventures:
+  - name: Club S
+    type: Photography Services
+    tech: AI-powered 24hr delivery
+    url: clubsxai.com
+
+  - name: ConPass
+    type: Color-blind Contact Lens
+    channel: Direct-to-consumer
+```
+
+---
+
+<div align="center">
+
+### `> git log --oneline --graph`
+
+<img src="https://github-readme-stats.vercel.app/api?username=MEYD-605&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MEYD-605&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" width="48%" />
+
+### `> cat /var/log/contributions.log`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MEYD-605&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41" width="98%" />
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MEYD-605/MEYD-605/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MEYD-605/MEYD-605/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MEYD-605/MEYD-605/output/github-snake-dark.svg" />
+</picture>
+
+### 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=MEYD-605&theme=matrix&no-frame=true&no-bg=true&column=7" width="98%" />
+
+---
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  "The fleet never sleeps. The oracle never forgets."        ║
+║                                                              ║
+║  Powered by Oracle Council — 9 AI agents that learn,        ║
+║  collaborate, and build together. 24/7. Autonomous.         ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<sub>🔒 54 private repos | 🌐 10 public repos | 🤖 9 autonomous agents | 🏠 self-hosted homelab</sub>
+
+</div>
